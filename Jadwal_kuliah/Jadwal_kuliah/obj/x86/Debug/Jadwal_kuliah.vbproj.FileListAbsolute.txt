@@ -1,0 +1,10 @@
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\bin\Debug\Jadwal.accdb
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\bin\Debug\Jadwal_kuliah.exe
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\bin\Debug\Jadwal_kuliah.pdb
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\bin\Debug\Jadwal_kuliah.xml
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\obj\x86\Debug\Jadwal_kuliah.Form1.resources
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\obj\x86\Debug\Jadwal_kuliah.Resources.resources
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\obj\x86\Debug\Jadwal_kuliah.vbproj.GenerateResource.Cache
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\obj\x86\Debug\Jadwal_kuliah.exe
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\obj\x86\Debug\Jadwal_kuliah.xml
+D:\Proyek\pak yanta\versi 2010\Jadwal_kuliah\Jadwal_kuliah\obj\x86\Debug\Jadwal_kuliah.pdb

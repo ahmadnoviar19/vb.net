@@ -1,0 +1,1 @@
+Program ini dibuat dengan menggunakan vb.net versi 2010
