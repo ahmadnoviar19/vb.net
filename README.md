@@ -1,2 +1,2 @@
 # vb.net
-program dengan vb.net
+program menggunakan bahasa vb.net
